@@ -31,3 +31,4 @@ to bundle your application
 ## Tasks
 1. Simple tasks
     - [x] Simple observable
+    - [ ] Simple observable with promise
