@@ -3,7 +3,7 @@
   "description": "My webpack project",
   "scripts": {
     "build": "webpack --mode development",
-    "start": "webpack-dev-server --config ./webpack.config.js --mode development"
+    "start": "webpack-dev-server --config ./webpack.config.js --mode developmentRg"
   },
   "devDependencies": {
     "@babel/core": "^7.8.7",
@@ -20,5 +20,8 @@
     "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.10.3",
     "workbox-webpack-plugin": "^5.0.0"
+  },
+  "dependencies": {
+    "rxjs": "^6.5.4"
   }
 }
