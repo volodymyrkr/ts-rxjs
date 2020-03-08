@@ -29,3 +29,5 @@ to bundle your application
 
 
 ## Tasks
+1. Simple tasks
+    - [ ] Simple observable
